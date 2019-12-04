@@ -16,7 +16,7 @@
  * add additonal status by comma separated example [display_total_order_count status="completed,pending"]
  *
  * shortcode: [display_total_order_count] 
- * status is optional
+ * status is optional, by default display complete order count
  * add this shortcode anywhere to display order count
  */
 
