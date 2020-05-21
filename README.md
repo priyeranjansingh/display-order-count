@@ -11,7 +11,7 @@ First is manually upload plugin
 2. Extract zip folder and then place this folder wp-content/pluging/ directory
 3. Login with admin username and password
 4. Go to plugin page
-5. Find Plugin Name "HIDE USER NOTIFICATION" and activate the plugin
+5. Find Plugin Name "Display Woocommerce Order" and activate the plugin
 
 Second is upload plugin using plugin installer
 
